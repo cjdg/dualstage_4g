@@ -3,7 +3,7 @@
 software for vibrotactile stimulation.
 
 ## Features
-* can vibrate using presstablished frequencies
+* can vibrate using prestablished frequencies
 * can use a list of frequencies, and automate a simple series of vibrations
 
 ## Requirements
