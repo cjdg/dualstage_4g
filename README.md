@@ -1,5 +1,7 @@
 # dualstage_4g
 
+![Main Window](images/main_window.png)
+
 software for vibrotactile stimulation.
 
 ## Features
