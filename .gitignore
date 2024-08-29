@@ -1,4 +1,8 @@
-linux-aarch64
-linux-amd64
-linux-arm
-windows-amd64
+dualstage_4g-linux-aarch64/
+dualstage_4g-linux-amd64/
+dualstage_4g-linux-arm/
+dualstage_4g-windows-amd64/
+dualstage_4g-linux-aarch64.tar.gz
+dualstage_4g-linux-amd64.tar.gz
+dualstage_4g-linux-arm.tar.gz
+dualstage_4g-windows-amd64.zip
